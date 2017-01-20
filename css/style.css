@@ -1,0 +1,32 @@
+html { 
+  background: url(../img/story.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+h1{
+  font-family: 'Arial', sans-serif;
+  font-size: 0.8em;
+  margin: .0em .0em;
+  color: rgba(255,255,255, 1);
+  text-decoration: underline;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+p{
+  font-family: 'Arial', sans-serif;
+  font-size: 0.8em;
+  margin: .0em .0em;
+  color: rgba(200,200,200, 1);
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  
+}
+  a:link {
+  color: #000000; text-decoration: underline;
+}
+
+body{
+    height: 100%;
+}
